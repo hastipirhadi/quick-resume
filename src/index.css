@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body{
+  height: 100vh;
+  
+}
+
+@theme{
+  --color-*:initial;
+  --color-gray-100:#E2E8F0;
+  --color-ocean:rgb(56, 178, 172);
+  --color-text-100:#718096;
+}
