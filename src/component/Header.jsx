@@ -4,7 +4,7 @@ import { Link } from 'react-router';
 
 const Header = () => {
   return (
-    <div className="h-16 bg-gray-100 flex justify-between items-center">
+    <div className="h-16 bg-gray-100 flex justify-between items-center w-full">
       <img src="./public/image1.png" className="h-11 w-11 ml-4" />
       <div className="flex justify-around items-center gap-5 mr-4">
         <Link to="/">Home</Link>

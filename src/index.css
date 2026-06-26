@@ -8,6 +8,10 @@ body{
 @theme{
   --color-*:initial;
   --color-gray-100:#E2E8F0;
+  --color-gray-200:#EDF2F7;
   --color-ocean:rgb(56, 178, 172);
+  --color-ocean-200:#38B2AC;
   --color-text-100:#718096;
+  --color-white:#FFFFFF;
+
 }
