@@ -1,12 +1,13 @@
 import React from "react";
 import Footer from "../component/Footer";
-import Header from "../Component/Header";
+
 import { MdCloudUpload } from "react-icons/md";
 import { ImLocation } from "react-icons/im";
 import { MdEmail } from "react-icons/md";
 import { FaPhone } from "react-icons/fa6";
 import { Link } from "react-router";
 import { useState } from "react";
+import Header from "../component/Header";
 
 
 const CreateTemplate = () => {
