@@ -1,16 +1,13 @@
-import React from 'react'
-import Header from '../component/Header'
-import FirstPage from './FirstPage'
-
+import FirstPage from "./FirstPage";
+import Header from "../component/Header";
 
 const Home = () => {
   return (
-   <>
-   <Header />
-  <FirstPage/>
-   </>
-  )
+    <>
+      <Header />
+      <FirstPage />
+    </>
+  );
+};
 
-}
-
-export default Home
+export default Home;
